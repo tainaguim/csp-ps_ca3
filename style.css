@@ -1,7 +1,7 @@
 body {
-  font-family: sans-serif;
+  font-family: Verdana, sans-serif;
   color: #172b4d;
-  background-color: #0279bf;
+  background-color: #daabb8;
   display: flex;
   align-items: start;
 }
@@ -32,7 +32,7 @@ div {
 .editing {
   background: white;
   color: #172b4d !important;
-  box-shadow:inset 0px 0px 0px 2px #0279bf;
+  box-shadow:inset 0px 0px 0px 2px #924f77;
 }
 
 .editing:hover {
@@ -41,7 +41,7 @@ div {
 
 .card {
   background: white;
-  border-bottom: 1px solid #aaa;
+  border-bottom: 1px solid rgb(251, 210, 210);
 }
 
 .list {
